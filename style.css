@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(236, 235, 171);
+    font-family: arial, sans-serif;
+}
+
+h1 {
+    color:rgb(139, 101, 29);
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p{
+    font-size:18px;
+    text-align: justify;
+}
+
+ul li{
+    margin-bottom: 10px;
+}
+
+.imagemcapa {
+    border-radius: 10px;
+    width: 200px;
+    height: auto;
+}
+
+img {
+    border-radius: 10px;
+    width: 200px;
+    height: 180px;
+}
+
+table{
+    width: 50%;
+    border-collapse: separate;
+    margin-top: 15px;
+    margin: auto;
+}
+
+th, td{
+    border: 1px solid #c79611;
+    padding: 10xp;
+    text-align: center;
+}
+
+th {
+    background-color: #c79611;
+    color: whitesmoke;
+}
+
+a{
+    color:#55511f;
+    text-decoration: none;
+}
+ a:hover{
+    color:#ffffff; 
+}
+
+button{
+    display: block;
+    margin:20px auto;
+    padding: 10px 20px;
+    color: rgb(37, 100, 22);
+    border:none;
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
